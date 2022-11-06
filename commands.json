@@ -1,0 +1,6 @@
+[
+  {
+    "name": "assrocket",
+    "command": "!rm %steamName%"
+  }
+]
